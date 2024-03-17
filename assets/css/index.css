@@ -109,7 +109,7 @@ a {
     top: 2rem;
     position: absolute;
     display: flex;
-    width: 85rem;
+    width: 65%;
     overflow: hidden;
     -webkit-mask-image: linear-gradient(90deg, transparent, #fff 20%, #fff 80%, transparent)
 }
