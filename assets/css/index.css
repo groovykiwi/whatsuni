@@ -192,3 +192,14 @@ a {
     /* Non-prefixed version, currently
                                     supported by Chrome, Edge, Opera and Firefox */
 }
+
+::-moz-selection {
+    /* Code for Firefox */
+    color: white;
+    background: var(--primary-dark);
+}
+
+::selection {
+    color: white;
+    background: var(--primary-dark);
+}
